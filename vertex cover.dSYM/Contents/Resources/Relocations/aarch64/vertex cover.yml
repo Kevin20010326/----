@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/wenqingwei/Desktop/平行運算/vertex cover"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _isCover, symObjAddr: 0x0, symBinAddr: 0x1000038EC, symSize: 0x278 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _V, symObjAddr: 0x5E8, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x69, size: 0x8, addend: 0x0, symName: _graph, symBinAddr: 0x100008004, symSize: 0x0 }
+  - { offsetInCU: 0xAA, offset: 0xAA, size: 0x8, addend: 0x0, symName: _isCover, symObjAddr: 0x0, symBinAddr: 0x1000038EC, symSize: 0x278 }
+  - { offsetInCU: 0x17A, offset: 0x17A, size: 0x8, addend: 0x0, symName: _findMinimumVertexCover, symObjAddr: 0x278, symBinAddr: 0x100003B64, symSize: 0x174 }
+  - { offsetInCU: 0x220, offset: 0x220, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x3EC, symBinAddr: 0x100003CD8, symSize: 0x1F4 }
+...
